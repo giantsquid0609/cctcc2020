@@ -1,0 +1,6 @@
+To run the program,
+	individual.java and
+	population.java
+from the book 
+	Genetic Algorithms in Java Basics
+are needed.
